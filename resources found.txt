@@ -1,0 +1,44 @@
+gpu: 
+https://medium.com/analytics-vidhya/tensorflow-gpu-how-to-install-tensorflow-with-nvidia-cuda-cudnn-and-gpu-support-on-windows-6158cffc1c29
+
+Siemese:
+https://keras.io/examples/vision/siamese_network/
+https://www.kaggle.com/code/sasakitetsuya/face-recognition-model-by-cnn
+https://www.kaggle.com/code/arunkumarramanan/awesome-deep-learning-with-cnn-mnist-classifier
+https://www.kaggle.com/code/lxyuan0420/facial-expression-recognition-using-cnn
+https://www.kaggle.com/code/timesler/facial-recognition-model-in-pytorch
+https://www.kaggle.com/code/stoicstatic/face-recognition-siamese-w-triplet-loss
+https://www.kaggle.com/code/quadeer15sh/face-recognition-siamese-network-triplet-loss
+
+activation function for accuracy: 
+https://keras.io/api/layers/activations/
+
+dataset used: https://www.kaggle.com/code/ryzer97/avengers-deepface-98-accuracy
+https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset
+
+
+used vids:
+https://www.youtube.com/watch?v=jztwpsIzEGc&t=3890s
+https://www.youtube.com/watch?v=bK_k7eebGgc&list=PLgNJO2hghbmhHuhURAGbe6KWpiYZt0AMH&index=4
+https://www.youtube.com/watch?v=19LQRx78QVU&list=PLgNJO2hghbmiXg5d4X8DURJP9yv9pgjIu
+https://www.youtube.com/watch?v=N_W4EYtsa10&list=PLgNJO2hghbmiXg5d4X8DURJP9yv9pgjIu&index=6
+https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9
+
+https://github.com/V-Sher/Face-Search/blob/main/notebooks/face-search-yale.ipynb
+https://github.com/serengil/deepface
+
+https://www.tensorflow.org/tutorials/customization/custom_training_walkthrough
+https://www.tensorflow.org/guide/keras/sequential_model
+
+
+
+
+https://notebook.community/steinam/teacher/jup_notebooks/data-science-ipython-notebooks-master/scikit-learn/scikit-learn-random-forest
+
+https://ocw.mit.edu/courses/mas-622j-pattern-recognition-and-analysis-fall-2006/download/
+
+https://towardsdatascience.com/building-a-face-recognition-system-using-scikit-learn-in-python-163fd423513b
+
+https://pyimagesearch.com/2020/11/30/siamese-networks-with-keras-tensorflow-and-deep-learning/
+
+https://medium.com/codex/building-a-c-compiler-using-lex-and-yacc-446262056aaa
